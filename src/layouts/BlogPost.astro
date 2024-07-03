@@ -29,7 +29,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				box-shadow: var(--box-shadow);
 			}
 			.prose {
-				width: 720px;
+				width: 52rem;
 				max-width: calc(100% - 2em);
 				margin: auto;
 				padding: 1em;
@@ -51,17 +51,21 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.last-updated-on {
 				font-style: italic;
 			}
+
+			.prose li p {
+				margin: 0px;
+			}
 		</style>
 	</head>
 
 	<body>
 		<Header />
 		<main>
-			<article>
+			<article class="!mt-12">
 				<div class="hero-image">
 					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
 				</div>
-				<div class="prose md:prose-lg">
+				<div class="prose tracking-wide">
 					<div class="title">
 						<div class="date">
 							<FormattedDate date={pubDate} />

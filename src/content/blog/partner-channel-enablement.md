@@ -2,13 +2,20 @@
 title: 'The Complete Partner Channel Enablement Guide (2024)'
 description: 'The only guide you will need to get started in Channel Enablement'
 pubDate: 'Jun 24 2024'
-heroImage: '/blog-placeholder-3.jpg'
+heroImage: '/images/blog/channel-partner-enablement-header.png'
 published: true
 ---
 
-Selling through channel partners can be a highly effective strategy for expanding your reach and driving revenue growth. However, enabling these external sales teams comes with its own unique set of challenges that many organizations struggle to overcome.
+Selling through channel partners can be a highly effective strategy for expanding your reach and driving revenue growth. 
 
-The first obvious reason is your partners are not part of the internal sales team. So they are not privy to the base organisational knowledge that any of your salespeople would easily absorb when they onboard.
+>
+>Companies that have already deployed SE platforms to their partners are up to 2.3x more effective at achieving their sales goals and report 1.4x higher revenue growth.
+>
+>(Forrester, 2018)
+
+However, enabling these external sales teams comes with its own unique set of challenges that many organizations struggle to overcome.
+
+The first obvious reason is your partners are not part of the internal sales team. So they are **not privy to the base organisational knowledge** that any of your salespeople would easily absorb when they onboard.
 
 
 
@@ -18,7 +25,11 @@ They are not part of your daily culture either, for the knowledge to be reinforc
 
 
 
-And, the salespeople in the partner organisation are far removed from the enablement team and rarely interact, if ever. Not to mention, the demand for their attention from the partner programs in other vendor organisations.
+And, the **salespeople in the partner organisation are far removed from the enablement team and rarely interact**, if ever. 
+
+
+
+Not to mention, the partners often work with multiple vendorsa and **their attention is split across different vendor organisations** as they work with multiple partner programs.
 
 
 
@@ -47,40 +58,46 @@ Channel partner enablement and sales enablement share some similarities, but the
 
 Your sales team is no longer the people under you in your organisation, but the sales teams in all the partner organisations too.
 
-
+>The companies we surveyed work with an average of 176 partner companies to sell their products and services. 
+>(Forrester, 2018)
 
 
 #### Different Personas
 
 Sales Enablement focuses on empowering external partners, such as resellers, distributors, and system integrators, to sell and support products or services. And oh, every partner organisation may have many influencers, decision makers and sellers within each Partner Organisation. Channel enablement is concerned with the entire partner ecosystem and the indirect sales channel. It is important to understand all the personas involved in the partnership ecosystem.
 
-
+>These channel partners range from exclusive sales contracts to preferred partnerships to relationships with companies that sell a variety of brands. The level of leverage and attention the enterprise receives from each partnership type varies widely, yet sales enablement leaders are tasked
+with driving revenue across all channels.
+>(Forrester, 2018)
 
 
 #### Lack of Control
 
-While there is more direct control and oversight over internal sales teams, the partners operate independently. The actual sellers are several degrees removed from the channel enablement team, with no direct lines of communication. So the enablement teams should do their best to have comprehensive and clear information in the channel materials and make onboarding and training as easy as possible. There should be clear guidelines and standards while allowing partners to adapt and customize materials to their specific needs and audiences.
+While there is more direct control and oversight over internal sales teams, the partners operate independently. The **actual sellers are several degrees removed from the channel enablement team**, with no direct lines of communication. So the enablement teams should do their best to have comprehensive and clear information in the channel materials and make onboarding and training as easy as possible. There should be clear guidelines and standards while allowing partners to adapt and customize materials to their specific needs and audiences.
 
 
 
 
 #### Lack of Visibility
 
-The Lack of Control also translates to less direct access to sales data and visibility into partner activities, requiring more indirect methods for tracking and optimization.
+The Lack of Control also translates to **less direct access to sales data and visibility into partner activities**, requiring more indirect methods for tracking and optimization.
 
 
 
 
 #### Training and Support
 
-Channel Enablement involves customised training and support for external partners' Persona. It focuses on product knowledge, sales techniques, and sales materials tailored to the partner's specific needs and audience.
+Channel Enablement need to provide customised training and support for external partners' Persona to get them onboard as quickly as possible. Focus needs to be on product knowledge, sales techniques, and sales materials tailored to the partner's specific needs and audience.
+
+In fact, as per the IGS report,
+>Channel partners take over a year to become fully productive.
 
 
 
 
 #### Brand Consistency
 
-Maintaining the Brand image is a challenge as the partner should also be able to adapt them to their own brands. Clear guidelines and standards are needed for brand consistency across the entire partner ecosystem, ensuring that partners use approved logos, images, and messaging.
+Maintaining the Brand image is a challenge as the partner should also be able to adapt them to their own brands. Clear guidelines and standards are needed for brand consistency across the entire partner ecosystem,** ensuring that partners use approved logos, images, and messaging**.
 
 
 
@@ -92,9 +109,12 @@ Direct observations of the sales data and interviews are impossible. So lagging 
 
 #### Competing with other Vendors
 
-A typical channel partner works with an average of 8 vendors at any time. That is 8 times the enablement programs they are enrolled in and several multiples of products to sell. That just means, your enablement program should not just be better, but world class, to win the partner loyalty and increase the chances of them focusing on your channel program.
+**A typical channel partner works with an average of 8 vendors at any time**. That is 8 times the enablement programs they are enrolled in and several multiples of products to sell. That just means, your enablement program should not just be better, but world class, to win the partner loyalty and increase the chances of them focusing on your channel program.
 
 
+## Your Channel Partner Enablement Strategy
+  Your partner enablement strategy makes or breaks your success. must first begin with understanding your partners and what their needs and goals are.
+  
 ### Determine the Ideal Partner Profile
 
 Just as you would with a customer profile, it is important to understand the world that your channel partner operates in, what their goals, motivations and contraints are. It is also important to understand if their customers are good fit for your product.
@@ -107,20 +127,18 @@ To determine the best fit for your product among different partner types, you sh
 
 
 
-1. **Define Your Ideal Partner Profile (IPP)**:
+#### Define Your Ideal Partner Profile (IPP)
 
-- Identify the types of partners that are the best fit for your product or service.
-
-- Create personas for different decision-makers and influencers within your partner organizations.
-
-- Define the goals, pain points, and messaging for these partners
+1. Identify the types of partners that are the best fit for your product or service.
+2. Create personas for different decision-makers and influencers within your partner organizations.
+3. Define the goals, pain points, and messaging for these partners.
 
 
 
 
-2. **Understand Partner Types**:
 
 
+##### **1. Understand Partner Types**
 
 
 - **Value-Added Resellers (VARs)**: Partners that add significant value to the product or service by providing additional services such as training, support, and customization.
@@ -150,7 +168,7 @@ To determine the best fit for your product among different partner types, you sh
 
 
 
-3. **Evaluate Partner Goals and Objectives**:
+##### 2. **Evaluate Partner Goals and Objectives**:
 
 - **Sales Volume**: The amount of revenue generated by the partner.
 
@@ -161,7 +179,7 @@ To determine the best fit for your product among different partner types, you sh
 
 
 
-4. **Assess Partner Technical and Sales Capabilities**:
+##### 3. **Assess Partner Technical and Sales Capabilities**:
 
 - **Technical Support**: The level of technical support required by the partner.
 
@@ -171,10 +189,9 @@ To determine the best fit for your product among different partner types, you sh
 
 
 
+##### 4. **Evaluate Partner Business Model and Portfolio**:
 
-5. **Evaluate Partner Business Model and Portfolio**:
-
-**Revenue Streams**:
+##### **Revenue Streams**:
 
 - Understanding the different revenue streams that the partner generates is important. This could include things like:
 
@@ -188,7 +205,7 @@ To determine the best fit for your product among different partner types, you sh
 
 - Knowing the partner's revenue mix can help you align your offerings and incentives to their business model.
 
-**Cost Structure**:
+##### **Cost Structure**:
 
 - Evaluating the partner's cost structure is crucial to understanding their profitability and margins.
 
@@ -205,9 +222,9 @@ To determine the best fit for your product among different partner types, you sh
 
 
 
-- **Growth Potential**:
+##### **Growth Potential**:
 
-- - Assessing the partner's growth potential is important to identify the right fit and investment level.
+- Assessing the partner's growth potential is important to identify the right fit and investment level.
 
 - Factors to consider include:
 
@@ -224,7 +241,7 @@ To determine the best fit for your product among different partner types, you sh
 
 
 
-1. **Determine Partner Requirements**:
+#### 5. **Determine Partner Requirements**:
 
 - **Language Support**: The languages supported by the partner.
 
@@ -443,17 +460,17 @@ To provide ongoing enablement and support effectively, you should analyze the pe
 
 
 
-9. **Sales Performance**: Monitoring the sales performance of channel partners, including the pipeline potential and the revenue they generate (**Sales Volume**), helps you understand their effectiveness in selling your product.
+5. **Sales Performance**: Monitoring the sales performance of channel partners, including the pipeline potential and the revenue they generate (**Sales Volume**), helps you understand their effectiveness in selling your product.
 
 
 
 
-**Customer Acquisition**: The number of new customers acquired by the partner.
+6. **Customer Acquisition**: The number of new customers acquired by the partner.
 
 
 
 
-4. **Customer Satisfaction**: The satisfaction of the partner's customers.
+7. **Customer Satisfaction**: The satisfaction of the partner's customers.
 
 
 
@@ -493,61 +510,61 @@ When your channel partners start to grow and you have significant number of chan
 
 
 
-* **Bronze Tier (New Partners):**
+**Bronze Tier (New Partners):**
 
 * **Focus:** Build foundational knowledge and sales skills.
 
 * **Support:**
 
-* Comprehensive onboarding process that equips partners with basic product knowledge, sales techniques, and enablement resources.
+    - Comprehensive onboarding process that equips partners with basic product knowledge, sales techniques, and enablement resources.
 
-* Access to core training materials and sales enablement resources.
+    - Access to core training materials and sales enablement resources.
 
-* Basic marketing materials and co-branding opportunities.
+    - Basic marketing materials and co-branding opportunities.
 
-* Dedicated support team for basic questions and technical troubleshooting.
+    - Dedicated support team for basic questions and technical troubleshooting.
 
 * **Criteria:** New partners with limited sales history and engagement.
 
 
 
 
-* **Silver Tier (Established Partners):**
+**Silver Tier (Established Partners):**
 
 * **Focus:** Enhance sales effectiveness and technical expertise.
 
 * **Support:**
 
-* All Bronze Tier benefits.
+    - All Bronze Tier benefits.
 
-* Advanced training programs on product features, sales methodologies, solution selling techniques, and customer success strategies.
+    - Advanced training programs on product features, sales methodologies, solution selling techniques, and customer success strategies.
 
-* Access to a wider range of marketing materials, including co-branded assets.
+    - Access to a wider range of marketing materials, including co-branded assets.
 
-* Priority access to technical support.
+    - Priority access to technical support.
 
 * **Criteria:** Consistent performance or exceeding quotas, moderate engagement with program activities.
 
 
 
 
-* **Gold Tier (Strategic Partners):**
+**Gold Tier (Strategic Partners):**
 
 * **Focus:** Increase partner success and strategic collaboration.
 
 * **Support:**
 
-* All Silver Tier benefits.
+    - All Silver Tier benefits.
 
-* Dedicated partner success manager for ongoing strategic guidance.
+    - Dedicated partner success manager for ongoing strategic guidance.
 
-* Regular meetings with leadership to discuss partner-specific growth strategies.
+    - Regular meetings with leadership to discuss partner-specific growth strategies.
 
-* Customized training programs and co-marketing funding (Allocate budget for joint marketing initiatives that generate high-quality leads.).
+    - Customized training programs and co-marketing funding (Allocate budget for joint marketing initiatives that generate high-quality leads.).
 
-* Early access to new features and product roadmaps.
+    - Early access to new features and product roadmaps.
 
-* Direct access to senior technical staff for advanced support.
+    - Direct access to senior technical staff for advanced support.
 
 * **Criteria:** Top performers exceeding expectations, high level of engagement with program initiatives, and strong contribution to pipeline and revenue generation.
 

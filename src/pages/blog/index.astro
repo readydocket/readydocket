@@ -92,8 +92,9 @@ const posts = (await getCollection('blog',
 	<body>
 		<Header />
 		<main>
-			<section>
-				<ul>
+			<section class="mt-8">
+				<h1 class="text-4xl font-bold">Latest Articles</h1>
+				<ul class="!mt-12">
 					{
 						posts.map((post) => (
 							<li>
