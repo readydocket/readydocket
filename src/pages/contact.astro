@@ -1,0 +1,100 @@
+---
+import Layout from '../layouts/StaticPage.astro';
+// import HeroText from '~/components/widgets/HeroText.astro';
+// import ContactUs from '~/components/widgets/Contact.astro';
+// import Features2 from '~/components/widgets/Features2.astro';
+
+const metadata = {
+  title: 'Contact',
+};
+---
+
+<Layout >
+    <div class="relative isolate bg-white">
+        <div class="mx-auto grid max-w-7xl grid-cols-1 lg:grid-cols-2">
+          <div class="relative px-6 pb-20 pt-24 sm:pt-32 lg:static lg:px-8 lg:py-48">
+            <div class="mx-auto max-w-xl lg:mx-0 lg:max-w-lg">
+              <div class="absolute inset-y-0 left-0 -z-10 w-full overflow-hidden bg-gray-100 ring-1 ring-gray-900/10 lg:w-1/2">
+                <svg class="absolute inset-0 h-full w-full stroke-gray-200 [mask-image:radial-gradient(100%_100%_at_top_right,white,transparent)]" aria-hidden="true">
+                  <defs>
+                    <pattern id="83fd4e5a-9d52-42fc-97b6-718e5d7ee527" width="200" height="200" x="100%" y="-1" patternUnits="userSpaceOnUse">
+                      <path d="M130 200V.5M.5 .5H200" fill="none" />
+                    </pattern>
+                  </defs>
+                  <rect width="100%" height="100%" stroke-width="0" fill="white" />
+                  <svg x="100%" y="-1" class="overflow-visible fill-gray-50">
+                    <path d="M-470.5 0h201v201h-201Z" stroke-width="0" />
+                  </svg>
+                  <rect width="100%" height="100%" stroke-width="0" fill="url(#83fd4e5a-9d52-42fc-97b6-718e5d7ee527)" />
+                </svg>
+              </div>
+              <h2 class="text-3xl font-bold tracking-tight text-gray-900">Get in touch</h2>
+              <p class="mt-6 text-lg leading-8 text-gray-600">For quicker answers, explore our FAQs section. You may find the solution you're looking  for right there! If not, our support team is delighted to help you.</p>
+              <dl class="mt-10 space-y-4 text-base leading-7 text-gray-600">
+                <div class="flex gap-x-4">
+                  <dt class="flex-none">
+                    <span class="sr-only">Address</span>
+                    <svg class="h-7 w-6 text-gray-400" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 3.75h.008v.008h-.008v-.008zm0 3h.008v.008h-.008v-.008zm0 3h.008v.008h-.008v-.008z" />
+                    </svg>
+                  </dt>
+                  <dd>7/3 Moovendar Street<br>MGR Nagar, CHN 600078</dd>
+                </div>
+                <!-- <div class="flex gap-x-4">
+                  <dt class="flex-none">
+                    <span class="sr-only">Telephone</span>
+                    <svg class="h-7 w-6 text-gray-400" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 6.75c0 8.284 6.716 15 15 15h2.25a2.25 2.25 0 002.25-2.25v-1.372c0-.516-.351-.966-.852-1.091l-4.423-1.106c-.44-.11-.902.055-1.173.417l-.97 1.293c-.282.376-.769.542-1.21.38a12.035 12.035 0 01-7.143-7.143c-.162-.441.004-.928.38-1.21l1.293-.97c.363-.271.527-.734.417-1.173L6.963 3.102a1.125 1.125 0 00-1.091-.852H4.5A2.25 2.25 0 002.25 4.5v2.25z" />
+                    </svg>
+                  </dt>
+                  <dd><a class="hover:text-gray-900" href="tel:+1 (555) 234-5678">+1 (555) 234-5678</a></dd>
+                </div> -->
+                <div class="flex gap-x-4">
+                    <dt class="flex-none">
+                      <span class="sr-only">LinkedIn</span>
+                      <svg  class="h-7 w-6 text-gray-400"  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.5"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-linkedin"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 11l0 5" /><path d="M8 8l0 .01" /><path d="M12 16l0 -5" /><path d="M16 16v-3a2 2 0 0 0 -4 0" /></svg>
+
+                    </dt>
+                    <dd><a class="hover:text-gray-900" href="https://www.linkedin.com/company/zippylens/">@ZippyLens</a></dd>
+                  </div>
+                <div class="flex gap-x-4">
+                    <dt class="flex-none">
+                      <span class="sr-only">Twitter/X</span>
+                      <svg class="h-7 w-6 text-gray-400" xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="1.5"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-x"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4l11.733 16h4.267l-11.733 -16z" /><path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772" /></svg>
+                    
+                    </dt>
+                    <dd><a class="hover:text-gray-900" href="https://x.com/zippylens">@zippylens</a></dd>
+                  </div>
+                <div class="flex gap-x-4">
+                  <dt class="flex-none">
+                    <span class="sr-only">Email</span>
+                    <svg class="h-7 w-6 text-gray-400" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+                      <path stroke-linecap="round" stroke-linejoin="round" d="M21.75 6.75v10.5a2.25 2.25 0 01-2.25 2.25h-15a2.25 2.25 0 01-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0019.5 4.5h-15a2.25 2.25 0 00-2.25 2.25m19.5 0v.243a2.25 2.25 0 01-1.07 1.916l-7.5 4.615a2.25 2.25 0 01-2.36 0L3.32 8.91a2.25 2.25 0 01-1.07-1.916V6.75" />
+                    </svg>
+                  </dt>
+                  <dd><a class="hover:text-gray-900" href="mailto:contact@zippylens.com">contact@zippylens.com</a></dd>
+                </div>
+              </dl>
+            </div>
+          </div>
+          <div class="iframe-container">
+            <iframe width="640px" height="480px" src="https://app.zippylens.com/contact" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh; overflow: hidden" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+          </div>
+          </div>
+      </div>
+      
+        <style>
+          .iframe-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+          }
+        
+          .iframe-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+          }
+        </style>
+</Layout>

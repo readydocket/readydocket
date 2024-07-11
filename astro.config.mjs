@@ -6,6 +6,6 @@ import tailwind from "@astrojs/tailwind";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://readydocket.com',
+  site: 'https://zippylens.com',
   integrations: [mdx(), sitemap(), tailwind()]
 });
